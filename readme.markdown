@@ -20,6 +20,6 @@
 
 [windows下使用git管理github项目](http://hi.baidu.com/mcspring/blog/item/171b1e38986d39fab211c71b.html)
 <http://github.com>
-
+<http://www.linuxgem.org/user_files/linuxgem/Image/git-tutor.pdf>
 
 
